@@ -1,0 +1,15 @@
+# Vivado / Vitis generated files (prebuilt files are attached to Releases)
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+.Xil/
+.metadata/
+_ide/
+Debug/
+Release/
+.DS_Store

@@ -1,1 +1,0 @@
-Power on ZYNQ with default FLASH startup, switch to JTAG startup after pressing the button
